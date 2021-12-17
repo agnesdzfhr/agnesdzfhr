@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agnes-diza-fahira
 - 👀 I’m interested in Mobile/Software/App Development, Back-End, and Front-End
-- 🌱 I’m currently learning Java and Kotlin
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Mobile/Software/App Development
 - 📫 How to reach me 
 -     E-mail: agnesdizaf@gmail.com

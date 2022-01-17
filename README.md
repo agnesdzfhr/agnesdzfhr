@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @agnes-diza-fahira
-- 👀 I’m interested in Mobile/Software/App Development, Back-End, and Front-End
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Mobile/Software/App Development
+- 👀 I’m interested in Mobile/Software/Web Development, Back-End, and Front-End
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on Mobile/Software/Web Development
 - 📫 How to reach me 
 -     E-mail: agnesdizaf@gmail.com
 -     linkedin: linkedin.com/in/agnesdizafahira/

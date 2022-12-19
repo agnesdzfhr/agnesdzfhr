@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=agnes.comi&cover_image=true&theme=default&show_offline=false&background_color=ffffff&bar_color=4e6cb1&bar_color_cover=true" />
+  <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=agnes.comi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&bar_color=80e5ff&bar_color_cover=false" />
 </p>
 
 
